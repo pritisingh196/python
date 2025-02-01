@@ -97,7 +97,7 @@ Welcome to the **Python Tutorial** branch! This repository contains a comprehens
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-tutorial.git
+   git clone https://github.com/pritisingh196/python-tutorial.git
    ```
 2. Install the required libraries:
    ```bash
